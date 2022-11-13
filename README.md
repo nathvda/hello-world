@@ -1,10 +1,17 @@
 # hello-world
-my first repository
-just trying to add stuff...
+Welcome to my repository. My name is Nathalie and I am trying out stuff to learn more about MarkDown.
 
-[banana](#solaris)
+To help you, here is a little **Table of content**. 
+## Table of Content.
+1. [banana](#Solaris)
+    1. We have more things to add here. 
+        1. Another list over here. Or should I say, a sublist.
 
-# Houhou
+# This is a main title, if you really want to know about it.
+To introduce myself, maybe I should write a little bit of background. As you may notice, I love learning. 
+[^2]
+
+[^2]: Spoiler, she has no idea what she is doing right now.
 
 ## Houhou Again
 
