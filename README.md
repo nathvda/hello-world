@@ -45,13 +45,13 @@ We try again because this is a quote.
 * Doo Doo
 + Daa Daa
 
-<http://www.lights-camera-action.org/>
+<http://perdu.com//>
 
-[LCA](http://www.lights-camera-action.org/)
+[PERDU.COM](http://perdu.com/)
 
 > **COMMENT** : This is what we need to do to define a key.
 
-[1]: http://www.lights-camera-action.org/u1
+[1]: http://perdu.com/
 
 [LCA][1]
 
