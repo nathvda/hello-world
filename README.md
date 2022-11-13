@@ -57,8 +57,6 @@ We try again because this is a quote.
 
 # Solaris
 
-![Moonhwan Avatar](https://64.media.tumblr.com/a6f3fea1ac291fd3037a4004de8daed7/4e3be699404135b1-b6/s540x810/16dd013f2fcd2c35618a481b95011a37622f796e.gif)
-
 `Here is some code`
 
 ### Titel{#Haha}
@@ -80,11 +78,10 @@ And you you use another line
 
 `<q>Wonderful</q>`
 
-Park Seonghwa
+Egg
 [^1]
 
-[^1]:Park Seonghwa is an Idol from the group Attez.
-
+[^1]:An egg is produced by the chicken.
 
 
 [back to title](#Haha)
