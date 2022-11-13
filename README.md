@@ -111,8 +111,11 @@ term
 - [ ] Keep going
 - [X] This one is done.
 
-== VERTY BASIC ==
+==VERTY BASIC==
 
 H~2~O
 
 X^EXPOSANT^
+
+I've noticed a few of them didn't work over here, but it's okay. I will just deal with it and try to not focus on it too much...  
+The highlighted. The underscript. The superscript... The customized tags. Anyway, I will read more of the documentation. 
