@@ -11,7 +11,7 @@ To help you, here is a little **Table of content**.
 To introduce myself, maybe I should write a little bit of background. As you may notice, I love learning. 
 [^2]
 
-[^2]: Spoiler, she has no idea what she is doing right now.
+[^2]: Spoiler, she has no idea what she is doing right now, but she's trying to use the footnotes, so here we go again.
 
 ## Houhou Again
 
@@ -36,6 +36,15 @@ We try again because this is a quote.
  ___
  ## In between this is a title
  ___
+
+ Don't pay attention to the unusual amount of horizontal rules, but she was trying to use them and there were a lot of them.
+
+## Now, onto some lists.
+
+First, let's try to use unordered lists
+[^3]
+
+[^3]: By definition, these have... Well, they have no order, that's why they're unordered. Anyway, don't focus on reading these. 
 
 - a list
 - another list
