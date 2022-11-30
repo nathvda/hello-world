@@ -1,0 +1,32 @@
+/*Mon premier fichier SASS*/
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+$secondary-color: blue;
+$main-font-size: 12px;
+
+body {
+  font: $main-font-size $font-stack;
+  color: $primary-color;
+}
+
+nav {
+
+
+    li{ color:$secondary-color;
+    
+         a{
+        color:$primary-color;
+         }
+}
+}
+
+@for $i from 1 to 17 {
+ li:nth-child(n + #{$i}){
+    margin-left: 50px * $i ;
+  }
+}
+
+@mixin button-base(){
+  @include stuff; 
+  
+}

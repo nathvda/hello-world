@@ -11,4 +11,66 @@ nav li a {
   color: #333;
 }
 
-/*# sourceMappingURL=fichier.css.map */
+li:nth-child(n+1) {
+  margin-left: 50px;
+}
+
+li:nth-child(n+2) {
+  margin-left: 100px;
+}
+
+li:nth-child(n+3) {
+  margin-left: 150px;
+}
+
+li:nth-child(n+4) {
+  margin-left: 200px;
+}
+
+li:nth-child(n+5) {
+  margin-left: 250px;
+}
+
+li:nth-child(n+6) {
+  margin-left: 300px;
+}
+
+li:nth-child(n+7) {
+  margin-left: 350px;
+}
+
+li:nth-child(n+8) {
+  margin-left: 400px;
+}
+
+li:nth-child(n+9) {
+  margin-left: 450px;
+}
+
+li:nth-child(n+10) {
+  margin-left: 500px;
+}
+
+li:nth-child(n+11) {
+  margin-left: 550px;
+}
+
+li:nth-child(n+12) {
+  margin-left: 600px;
+}
+
+li:nth-child(n+13) {
+  margin-left: 650px;
+}
+
+li:nth-child(n+14) {
+  margin-left: 700px;
+}
+
+li:nth-child(n+15) {
+  margin-left: 750px;
+}
+
+li:nth-child(n+16) {
+  margin-left: 800px;
+}/*# sourceMappingURL=fichier.css.map */
